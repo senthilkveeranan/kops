@@ -73,7 +73,7 @@ require (
 	github.com/go-ini/ini v1.51.0
 	github.com/go-logr/logr v0.1.0
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.3.3
+	github.com/golang/protobuf v1.4.3
 	github.com/gophercloud/gophercloud v0.7.1-0.20200116011225-46fdd1830e9a
 	github.com/gorilla/mux v1.7.3
 	github.com/hashicorp/hcl v1.0.0
@@ -81,12 +81,12 @@ require (
 	github.com/hashicorp/vault/api v1.0.4
 	github.com/huandu/xstrings v1.2.0 // indirect
 	github.com/jacksontj/memberlistmesh v0.0.0-20190905163944-93462b9d2bb7
-	github.com/jpillora/backoff v0.0.0-20170918002102-8eab2debe79d
+	github.com/jpillora/backoff v1.0.0
 	github.com/kr/fs v0.1.0 // indirect
 	github.com/miekg/coredns v0.0.0-20161111164017-20e25559d5ea
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/pkg/sftp v0.0.0-20160930220758-4d0e916071f6
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sergi/go-diff v1.0.0
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.5
@@ -97,16 +97,16 @@ require (
 	github.com/weaveworks/mesh v0.0.0-20170419100114-1f158d31de55
 	github.com/zclconf/go-cty v1.3.1
 	go.uber.org/zap v1.10.0
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
+	golang.org/x/net v0.0.0-20200625001655-4c5254603344
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191128015809-6d18c012aee9
+	golang.org/x/sys v0.0.0-20210603081109-ebe580a85c40
 	golang.org/x/tools v0.0.0-20200626171337-aa94e735be7f
 	google.golang.org/api v0.22.0
 	gopkg.in/gcfg.v1 v1.2.3
 	gopkg.in/inf.v0 v0.9.1
-	gopkg.in/yaml.v2 v2.2.8
+	gopkg.in/yaml.v2 v2.3.0
 	honnef.co/go/tools v0.0.1-2020.1.4
 	k8s.io/api v0.18.1
 	k8s.io/apimachinery v0.18.1

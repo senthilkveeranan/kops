@@ -97,12 +97,12 @@ require (
 	github.com/weaveworks/mesh v0.0.0-20170419100114-1f158d31de55
 	github.com/zclconf/go-cty v1.3.1
 	go.uber.org/zap v1.10.0
-	golang.org/x/crypto v0.0.0-20200220183623-bac4c82f6975
-	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191128015809-6d18c012aee9
-	golang.org/x/tools v0.0.0-20200626171337-aa94e735be7f
+	golang.org/x/sys v0.5.0
+	golang.org/x/tools v0.1.12
+	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
 	google.golang.org/api v0.22.0
 	gopkg.in/gcfg.v1 v1.2.3
 	gopkg.in/inf.v0 v0.9.1
